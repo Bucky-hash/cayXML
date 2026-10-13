@@ -1,0 +1,14 @@
+f:\cayXML\cayXML\bin\Debug\net10.0\cayXML.exe
+f:\cayXML\cayXML\bin\Debug\net10.0\cayXML.deps.json
+f:\cayXML\cayXML\bin\Debug\net10.0\cayXML.runtimeconfig.json
+f:\cayXML\cayXML\bin\Debug\net10.0\cayXML.dll
+f:\cayXML\cayXML\bin\Debug\net10.0\cayXML.pdb
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.GeneratedMSBuildEditorConfig.editorconfig
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.AssemblyInfoInputs.cache
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.AssemblyInfo.cs
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.csproj.CoreCompileInputs.cache
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.dll
+f:\cayXML\cayXML\obj\Debug\net10.0\refint\cayXML.dll
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.pdb
+f:\cayXML\cayXML\obj\Debug\net10.0\cayXML.genruntimeconfig.cache
+f:\cayXML\cayXML\obj\Debug\net10.0\ref\cayXML.dll
